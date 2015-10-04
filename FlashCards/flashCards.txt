@@ -1,1 +1,8 @@
-Writing this to a file.
+hello
+world
+bye
+i
+am
+bored
+trevor
+noah
